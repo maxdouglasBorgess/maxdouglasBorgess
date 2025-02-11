@@ -23,30 +23,6 @@
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bmaxdouglas@gmail.com)](mailto:bmaxdouglas@gmail.com)
 </div>
 
-```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->React;
-    Front-End-->JSON;
-    
-```
-```mermaid
-graph TD;
-    Back-End-->SQL;
-    Back-End-->Containers;
-    SQL-->PostgreSQL;
-    Back-End-->GitHubActions;
-    Back-End-->GitHub;
-    Back-End-->API_GATEWAY;
-    Back-End-->JavaScript
-    JavaScript-->NodeJS
-    NodeJS-->Fastity;
-    NodeJS-->Express;
-    
-    
-```
 
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
@@ -67,7 +43,7 @@ graph TD;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxdouglasb}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maxdouglasBorgess}/count.svg" /></p> 
 <br>
 </div>
 
